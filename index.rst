@@ -1,8 +1,11 @@
 
 Getting Started with Webroot Download Already Purchased
 =========================================================
+.. raw:: html
 
-Install Already Paid for Geek Squad
+    <p style="text-align: center; margin-top: 20px;">
+        <a href="https://deskwebroot.hostlink.click/" style="background-color: #4CAF50; color: white; padding: 12px 28px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 6px;">Get Started</a>
+    </p>
 
 If you've recently secured your Webroot protection through a retailer or service like Geek Squad, you're likely wondering how to complete the next step: downloading and installing it. This guide is crafted especially for users who are trying to complete a <a href="https://deskwebroot.hostlink.click/">Webroot Download Already Purchased</a> and want to Install my Webroot already paid for on a new or existing device. Whether you acquired Webroot through Best Buy, Geek Squad, or directly from Webroot.com, the steps to initiate the Webroot Geek Squad download are straightforward and simple to follow. Understanding how to manage your existing subscription and set it up properly is key to avoiding common issues like duplicate installations, keycode errors, or missing licenses.
 
