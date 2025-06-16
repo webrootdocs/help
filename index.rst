@@ -1,7 +1,3 @@
-.. raw:: html
-
-    <meta name="msvalidate.01" content="E644997C6355052BC944C9B523F972BB" />
-
 Getting Started with Webroot Download Already Purchased: Install Already Paid for Geek Squad
 =============================================================================================
 .. raw:: html
